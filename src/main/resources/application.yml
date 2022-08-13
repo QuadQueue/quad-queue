@@ -11,3 +11,4 @@ quad-queue:
       core-pool-size: 20
       max-pool-size: 30
       queue-capacity: 15
+
